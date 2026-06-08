@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+anthropic
+httpx
+reportlab
+python-multipart
+pydantic
+pydantic-settings
